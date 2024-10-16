@@ -1,3 +1,3 @@
 # workshop5
-Check out main branch.
-Cat game is on the main branch
+Check out master branch.
+Cat game is on the master branch
